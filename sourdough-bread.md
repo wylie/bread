@@ -1,5 +1,7 @@
 12/16/14
 
+First go at trying my own recipe.
+
 ##Ingredients
 - 1 cup water
 - 3 cups flour
