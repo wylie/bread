@@ -1,12 +1,13 @@
-1/1/15
+1/31/15
 
-Second go at my recipe. Don't forget the salt and the yeast this time...
-First go came out way to dense (thanks to no active yeast) and tastless (thanks to not enough salt).
+**Third** go at my recipe.
+
+Second time was better than the first, but still not enough salt and maybe not enough active yeast? Might also need 1/2 cup more water?
 
 ##Ingredients
 - 1 cup water
-- 1 tbsp active yeast
-- 3 1/2 cups flour
+- 2 tbsp active yeast
+- 3 cups flour
 - 1 cup natural yeast sourdough starter
 
 ##Method
@@ -14,8 +15,9 @@ First go came out way to dense (thanks to no active yeast) and tastless (thanks 
 - Let sit ~15 minutes
 - Mix in the remaining **flour**
 - Knead ~15 minutes
-- Divide into two balls and place each in a floured and plastic covered bowl
 - Let sit ~2 hours
-- Put into dutch oven
+
+- Divide into two balls and place each in a floured and plastic covered bowl
+- Let sit ~1.5 hours
 - Bake at 400ºF for 35 minutes if on a pan
 - Bake at 400ºF for 55 minutes if in a dutch oven
