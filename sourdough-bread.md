@@ -8,7 +8,7 @@ Second time was better than the first, but still not enough salt and maybe not e
 - 1 cup water
 - 2 tbsp active yeast
 - 3 cups flour
-- 1 cup natural yeast sourdough starter
+- 1 cup natural yeast [sourdough starter](sourdough-starter.md)
 
 ##Method
 - Combine the **water**, **1/2 cup of the flour**, and the **sourdough starter** in a bowl
