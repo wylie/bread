@@ -1,2 +1,2 @@
-# bread
-Bread Recipes
+# Bread
+Keeping track of my bread recipes
