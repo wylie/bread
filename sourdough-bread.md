@@ -19,5 +19,4 @@ Second time was better than the first, but still not enough salt and maybe not e
 
 - Divide into two balls and place each in a floured and plastic covered bowl
 - Let sit ~1.5 hours
-- Bake at 400ºF for 35 minutes if on a pan
-- Bake at 400ºF for 55 minutes if in a dutch oven
+- Bake at 350ºF for 1 hour 15 minutes in a dutch oven
